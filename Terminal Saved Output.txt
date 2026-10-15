@@ -1,0 +1,152 @@
+Last login: Thu Oct 15 16:11:08 on ttys000
+apple@Adits-MacBook-Pro-2 ~ % cd ~/coding-cafe
+git init
+ls -a
+cd: no such file or directory: /Users/apple/coding-cafe
+Reinitialized existing Git repository in /Users/apple/.git/
+.			.ipython		Applications
+..			.lesshst		Desktop
+.CFUserTextEncoding	.local			Documents
+.claude			.matplotlib		Downloads
+.claude.json		.python_history		Library
+.copilot		.Trash			Movies
+.cups			.vscode			Music
+.DS_Store		.vscode-shared		nltk_data
+.git			.zprofile		Pictures
+.gitconfig		.zsh_history		Public
+.gitignore		.zsh_sessions
+apple@Adits-MacBook-Pro-2 ~ % ls
+Applications	Desktop		Documents	Downloads	Library		Movies		Music		nltk_data	Pictures	Public
+apple@Adits-MacBook-Pro-2 ~ % mkdir
+usage: mkdir [-pv] [-m mode] directory_name ...
+apple@Adits-MacBook-Pro-2 ~ % cd
+apple@Adits-MacBook-Pro-2 ~ % md
+zsh: command not found: md
+apple@Adits-MacBook-Pro-2 ~ % l
+zsh: command not found: l
+apple@Adits-MacBook-Pro-2 ~ % l -s
+zsh: command not found: l
+apple@Adits-MacBook-Pro-2 ~ % ls
+Applications	Desktop		Documents	Downloads	Library		Movies		Music		nltk_data	Pictures	Public
+apple@Adits-MacBook-Pro-2 ~ % desktop
+zsh: command not found: desktop
+apple@Adits-MacBook-Pro-2 ~ % cd Desktop
+apple@Adits-MacBook-Pro-2 Desktop % cd coding-cafe 
+apple@Adits-MacBook-Pro-2 coding-cafe % git init
+Initialized empty Git repository in /Users/apple/Desktop/coding-cafe/.git/
+apple@Adits-MacBook-Pro-2 coding-cafe % ls -a
+.					.DS_Store				.venv					lab2_cc_2026_Adit_Ahluwalia.ipynb	notes.md				Week02
+..					.git					git-and-github.pdf			lab3_cc_aditahluwalia.ipynb		Week01
+apple@Adits-MacBook-Pro-2 coding-cafe % git config --global user.name Adit Ahluwalia
+apple@Adits-MacBook-Pro-2 coding-cafe % git config --global user.email adit.ahluwalia.ug26@plaksha.edu.in
+apple@Adits-MacBook-Pro-2 coding-cafe % git config --global --list
+user.name=adit_ahlw2007
+user.email=adit.ahluwalia.ug26@plaksha.edu.in
+user.name=Adit
+apple@Adits-MacBook-Pro-2 coding-cafe % git.status
+zsh: command not found: git.status
+apple@Adits-MacBook-Pro-2 coding-cafe % git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	.venv/
+	Week02/
+	git-and-github.pdf
+	lab2_cc_2026_Adit_Ahluwalia.ipynb
+	lab3_cc_aditahluwalia.ipynb
+	notes.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+apple@Adits-MacBook-Pro-2 coding-cafe % nano .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                                                                      File: .gitignore                                                                                                      Modified  
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                             ^O WriteOut                             ^R Read File                            ^Y Prev Pg                              ^K Cut Text                             ^C Cur Pos                              
+^X Exit                                 ^J Justify                              ^W Where is                             ^V Next Pg                              ^U UnCut Text                           ^T To Spell                             

@@ -1,0 +1,250 @@
+   66  cd "/Users/apple/Desktop/Computational Thinking 2026/Coding/output"
+   67  ./"test"
+   68  cd "/Users/apple/Desktop/Computational Thinking 2026/Coding/output"
+   69  ./"test"
+   70  cd "/Users/apple/Desktop/Computational Thinking 2026/Coding/output"
+   71  ./"Lab1task2"
+   72  1
+   73  clear
+   74  cd "/Users/apple/Desktop/Computational Thinking 2026/Coding/output"
+   75  ./"Lab1task2"
+   76  cd "/Users/apple/Desktop/Computational Thinking 2026/Coding/output"
+   77  ./"Lab1task1"
+   78  ~$python3 --version
+   79  ~$ python --version
+   80  /usr/bin/python3 "/Users/apple/Desktop/Computer Science 101/Class Work/Dogs age.py"
+   81  3
+   82  clear
+   83  close
+   84  /usr/bin/python3 "/Users/apple/Desktop/Computer Science 101/Class Work/Dogs age.py"
+   85  pip install notebook
+   86  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   87  ./"task1lab2"
+   88  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   89  ./"task1lab2"
+   90  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   91  ./"task2lab2"
+   92  46
+   93  46
+   94  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   95  ./"task2lab2"
+   96  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   97  ./"task2lab2"
+   98  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+   99  ./"task3lab2"
+  100  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  101  ./"task3lab2"
+  102  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  103  ./"task4lab2"
+  104  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  105  ./"task4lab2"
+  106  3432
+  107  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  108  ./"task4lab2"
+  109  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  110  ./"task4lab2"
+  111  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 2/output"
+  112  ./"task4lab2"
+  113  pwd
+  114  cd
+  115  cd
+  116  clear
+  117  pwd
+  118  1s
+  119  clear
+  120  pwd
+  121  ls
+  122  clear
+  123  pwd
+  124  ls
+  125  ls-1
+  126  clear
+  127  clear
+  128  pwd
+  129  ls
+  130  ls -1
+  131  ls -a
+  132  ls -1
+  133  ls -l
+  134  pwd
+  135  mkdir
+  136  mkdir Coding- Cafe
+  137  ls
+  138  cd
+  139  cd Coding- Cafe
+  140  cd Coding-Cafe
+  141  cd Coding- Cafe
+  142  clear
+  143  ls
+  144  desktop
+  145  exit
+  146  delete Coding- Cafe
+  147  del Coding- Cafe
+  148  cd desktop
+  149  mkdir Coding-cafe
+  150  cd Coding-cafe
+  151  mkdir Week01
+  152  mkdir Week02
+  153  ls
+  154  Week02
+  155  cd../Week01
+  156  cd ../Week01
+  157  touch notes.md
+  158  cd Week02
+  159  ls
+  160  code notes.md
+  161  open notes.md
+  162  cd user
+  163  cd users
+  164  cd apple
+  165  ls
+  166  ls- l
+  167  ls -l
+  168  cd desktop
+  169  cd Desktop
+  170  cd Downloads
+  171  exit
+  172  ls
+  173  cd
+  174  rm
+  175  ls -l
+  176  ls -a
+  177  cd desktop
+  178  clear
+  179  exit
+  180  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  181  ./"task1lab3"
+  182  3
+  183  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  184  ./"task1lab3"
+  185  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  186  ./"task2lab3"
+  187  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  188  ./"task3lab3"
+  189  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  190  ./"task3lab3"
+  191  35
+  192  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  193  ./"task3lab3"
+  194  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  195  ./"task3lab3"
+  196  27
+  197  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  198  ./"task3lab3"
+  199  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  200  ./"task3lab3"
+  201  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  202  ./"task3lab3"
+  203  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  204  ./"task1lab3"
+  205  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  206  ./"task1lab3"
+  207  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  208  ./"task1lab3"
+  209  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  210  ./"task1lab3"
+  211  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  212  ./"task1lab3"
+  213  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  214  ./"task1lab3"
+  215  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  216  ./"task2lab3"
+  217  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  218  ./"task2lab3"
+  219  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  220  ./"task3lab3"
+  221  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  222  ./"task3lab3"
+  223  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  224  ./"task3lab3"
+  225  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  226  ./"task3lab3"
+  227  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  228  ./"task3lab3"
+  229  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  230  ./"task3lab3"
+  231  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  232  ./"task3lab3"
+  233  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  234  ./"task3lab3"
+  235  371
+  236  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  237  ./"task3lab3"
+  238  cd "/Users/apple/Desktop/Computational Thinking 2026/Labs/Lab 3/output"
+  239  ./"task3lab3"
+  240  pwd
+  241  ls
+  242  ls- a
+  243  ls -a
+  244  rm Coding-
+  245  rm Cafe
+  246  ls
+  247  rm -r Cafe
+  248  ls
+  249  rm -r Coding-
+  250  ls
+  251  ls -a
+  252  ls -l
+  253  ls -l Coding-cafe/Week02
+  254  ls Coding-cafe/Week02
+  255  ls Desktop/Coding-cafe/Week02
+  256   echo $PATH
+  257  which python3
+  258  which pip
+  259  which ls
+  260  which pyton3
+  261  python3
+  262  python3
+  263  cd ~/Coding-cafe
+  264  cd Desktop
+  265  cd ~/coding-cafe
+  266  cd ~/Coding-cafe
+  267  cd Coding-cafe
+  268  python3 -m venv .venv
+  269  python3 -m venv .venv
+  270  ls
+  271  ls -a
+  272  source .venv/bin/activate
+  273  which python3
+  274  pip list
+  275  pip install requests
+  276  pip list
+  277  deactivate
+  278  which python3
+  279  man ls
+  280  ls -h
+  281  cd User
+  282  cd Desktop
+  283  clear
+  284  exit
+  285  cd
+  286  pwd
+  287  ls -h
+  288  cd Desktop/Coding-cafe
+  289  ls -h
+  290  ls -lh
+  291  cd Desktop
+  292  cd Codiing-cafe/Desktop
+  293  cd apple
+  294  exit
+  295  ls- lh
+  296  pwd
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  ls -h
+  301  ls -lh
+  302  ls -a
+  303  ls -l
+  304  cd cod
+  305  rm
+  306  history
+  307  history
+  308  python3
+  309  history > week02/lab01-logtxt
+  310  history > week02/lab01-log.txt
+  311  history>week02/lab01-log.txt
+  312  exit
+  313  history -250
+  314  history -250 > ~/Desktop/Coding-cafe/Week02
+  315  history -250 > ~/Users/apple/Desktop/Coding-cafe/Week02
